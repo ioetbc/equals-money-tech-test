@@ -1,4 +1,4 @@
-# :wave Equals Money
+# :wave: Equals Money
 
 ## To run the project locally:
 
